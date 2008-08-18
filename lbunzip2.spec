@@ -1,6 +1,6 @@
 Summary:	A multi-threaded bunzip2 filter
 Name:		lbunzip2
-Version:	0.01
+Version:	0.02
 Release:	%mkrel 1
 License:	GPLv2+
 Group: 		Archiving/Compression
@@ -37,4 +37,3 @@ rm -fr %{buildroot}
 %defattr(-,root,root)
 %doc README
 %{_bindir}/%{name}
-
