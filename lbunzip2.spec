@@ -1,6 +1,6 @@
 Summary:	A multi-threaded bunzip2 filter
 Name:		lbunzip2
-Version:	0.02
+Version:	0.03
 Release:	%mkrel 1
 License:	GPLv2+
 Group: 		Archiving/Compression
