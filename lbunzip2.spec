@@ -37,3 +37,29 @@ rm -fr %{buildroot}
 %defattr(-,root,root)
 %doc README
 %{_bindir}/%{name}
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 0.03-3mdv2011.0
++ Revision: 620056
+- the mass rebuild of 2010.0 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0.03-2mdv2010.0
++ Revision: 429704
+- rebuild
+
+* Wed Aug 20 2008 Oden Eriksson <oeriksson@mandriva.com> 0.03-1mdv2009.0
++ Revision: 274229
+- 0.03
+
+* Mon Aug 18 2008 Oden Eriksson <oeriksson@mandriva.com> 0.02-1mdv2009.0
++ Revision: 273160
+- 0.02
+
+* Thu Aug 14 2008 Oden Eriksson <oeriksson@mandriva.com> 0.01-1mdv2009.0
++ Revision: 271853
+- import lbunzip2
+
+
+* Thu Aug 14 2008 Oden Eriksson <oeriksson@mandriva.com> 0.01-1mdv2009.0
+- initial Mandriva package
