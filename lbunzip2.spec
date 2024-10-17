@@ -4,7 +4,7 @@ Version:	0.03
 Release:	4
 License:	GPLv2+
 Group: 		Archiving/Compression
-URL:		http://phptest11.atw.hu/
+URL:		https://phptest11.atw.hu/
 Source0:	lbunzip2.tar.gz
 BuildRequires:	bzip2-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
