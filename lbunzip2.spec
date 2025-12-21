@@ -6,6 +6,7 @@ License:	GPLv2+
 Group: 		Archiving/Compression
 URL:		https://phptest11.atw.hu/
 Source0:	lbunzip2.tar.gz
+BuildRequires:	make
 BuildRequires:	bzip2-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
